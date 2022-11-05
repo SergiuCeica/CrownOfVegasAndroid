@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: d61e5ff632e3133409dd371d7ad32158
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6775543051442989227
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_0
+  - first:
+      213: 6777459760826242218
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_1
+  - first:
+      213: -6518198483294475529
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_2
+  - first:
+      213: 5113123377219832572
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_3
+  - first:
+      213: -7777942538826454744
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_4
+  - first:
+      213: 2051834205295283859
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_5
+  - first:
+      213: 6410332970079899451
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_6
+  - first:
+      213: -4305538495228216612
+    second: 375-3750354_discover-a-wide-range-of-exciting-new-slot_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 222
+        width: 246
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba820a5c180970e50800000000000000
+      internalID: 6775543051442989227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 246
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45d837ebf5e0e50800000000000000
+      internalID: 6777459760826242218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 225
+        width: 222
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa2ebba305ba85a0800000000000000
+      internalID: -6518198483294475529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 24
+        width: 218
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0feffe9675f640800000000000000
+      internalID: 5113123377219832572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 225
+        width: 215
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82969d168723f0490800000000000000
+      internalID: -7777942538826454744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 39
+        width: 222
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e0f90b654997c10800000000000000
+      internalID: 2051834205295283859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 236
+        width: 222
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f46957fd316f850800000000000000
+      internalID: 6410332970079899451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 375-3750354_discover-a-wide-range-of-exciting-new-slot_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 35
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaf621ec87af34c0800000000000000
+      internalID: -4305538495228216612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
